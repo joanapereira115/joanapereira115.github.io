@@ -63,29 +63,6 @@ button:hover {
   margin-bottom: 10px;
 }
 
-.vl {
-  border-left: 3px solid #007EA7;
-  height: 500px;
-  position: absolute;
-  left: 62%;
-  margin-left: -3px;
-  top: 10;
-}
-
-.socials:hover {
-    transform: scale(1.5,1.5);
-    transform-origin: 80% center;
-    animation: normal;
-}
-
-@media (max-width: 767px) {
-    .socials:hover {
-        transform: scale(1.3,1.3);
-        transform-origin: 94% center;
-        animation: normal;
-    }
-}
-
 #aboutme {
     background-color: #ffffff;
     background-repeat: no-repeat; 
@@ -113,6 +90,18 @@ button:hover {
   content: "";
   display: block;
   clear: both;
+}
+
+@media (max-width:500px) {
+    #hexGrid {
+        transform: scale(1.7);
+        padding-top: 70px;
+        width: 65%;
+    }
+
+    #hexIn.h1 {
+        font-size: 0.5em;
+    }
 }
 
 .hex {

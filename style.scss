@@ -60,12 +60,6 @@ nav {
             }
         }
     }
-  
-    :is(li:hover, .active) {
-        color: inherit;
-        text-decoration: none!important;
-        color: $lilac !important;
-    }
 }
   
 #nav_about {
@@ -73,12 +67,6 @@ nav {
     padding: 0% 10%;
     color: $white;
     font-family: 'Parisienne', cursive;
-
-    &:hover {
-        scale: 1.1;
-        color: $lilac;
-        cursor: pointer;
-    }
 }
 
 /* SECTIONS */

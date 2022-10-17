@@ -37,22 +37,12 @@ nav li a:hover {
   text-decoration: none !important;
   color: #B08AD0 !important;
 }
-nav :is(li:hover, .active) {
-  color: inherit;
-  text-decoration: none !important;
-  color: #B08AD0 !important;
-}
 
 #nav_about {
   font-size: 2em;
   padding: 0% 10%;
   color: #ffffff;
   font-family: "Parisienne", cursive;
-}
-#nav_about:hover {
-  scale: 1.1;
-  color: #B08AD0;
-  cursor: pointer;
 }
 
 /* SECTIONS */

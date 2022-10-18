@@ -346,6 +346,13 @@ nav {
 
 /* EXPERIENCE */
 
+@media (max-width:800px) {
+
+    #experience {
+        font-size: $small-size;
+    }
+}
+
 #experience {
     background-color: $dark-grey;
 }

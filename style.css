@@ -270,6 +270,11 @@ nav li a:hover {
   }
 }
 /* EXPERIENCE */
+@media (max-width: 800px) {
+  #experience {
+    font-size: 0.9em;
+  }
+}
 #experience {
   background-color: #0a0908;
 }

@@ -12,10 +12,13 @@ $h3-size: 1.3em;
 $h4-size: 1.2em;
 $p-size: 1.1em;
 $small-size: 0.9em;
+$smaller-size: 0.8em;
 
 $heavy-weight: 500;
 $medium-weight: 375;
 $light-weight: 250;
+
+$layout-breakpoint-small: 1000px;
 
 html {
     overflow-x: hidden;
@@ -69,6 +72,20 @@ nav {
     font-family: 'Parisienne', cursive;
 }
 
+@media (max-width: $layout-breakpoint-small) {
+    #nav_about {
+        font-size: $h2-size;
+    }
+
+    nav li {
+        font-size: $h4-size;
+    }
+
+    .section {
+        font-size: $smaller-size;
+    }
+}
+
 /* SECTIONS */
 
 .section {
@@ -86,7 +103,7 @@ nav {
 }
 
 /* ABOUT ME */
-  
+
 #aboutme {
     background-color: $dark-grey;
 }

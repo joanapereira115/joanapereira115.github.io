@@ -301,6 +301,13 @@ nav {
     }
 }
 
+@media (max-width:500px) {
+
+    #skills_grid {
+        transform: scale(1.7);
+    }
+}
+
 @media (max-width:650px) {  /* <- 2-3  hexagons per row */
 
     #skills_grid {
@@ -350,6 +357,10 @@ nav {
 
     #experience {
         font-size: $small-size;
+    }
+
+    .event h4 {
+        margin-top: 5%;
     }
 }
 
@@ -431,6 +442,14 @@ nav {
 }
 
 /* EDUCATION */
+
+@media (max-width:768px) {
+
+    #education #topics {
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+}
   
 #education {
     background-color: $black;

@@ -240,6 +240,11 @@ nav li a:hover {
     transform: scale(1.5);
   }
 }
+@media (max-width: 500px) {
+  #skills_grid {
+    transform: scale(1.7);
+  }
+}
 @media (max-width: 650px) { /* <- 2-3  hexagons per row */
   #skills_grid {
     margin: 0 0 10% -10%;
@@ -273,6 +278,9 @@ nav li a:hover {
 @media (max-width: 800px) {
   #experience {
     font-size: 0.9em;
+  }
+  .event h4 {
+    margin-top: 5%;
   }
 }
 #experience {
@@ -346,6 +354,12 @@ nav li a:hover {
 }
 
 /* EDUCATION */
+@media (max-width: 768px) {
+  #education #topics {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+}
 #education {
   background-color: #000000;
 }

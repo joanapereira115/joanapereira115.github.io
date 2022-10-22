@@ -144,6 +144,25 @@ nav {
     height: 70vh;
 }
 
+@media (max-width:991px) {
+
+    #photo {
+        margin-top: -10%!important;
+        height: 45vh;
+        
+    }
+
+    #about_me {
+        text-align: center!important;
+        margin-left: -8%!important;
+
+        hr {
+            margin: auto!important;
+            margin-bottom: 3%!important;
+        }
+    }
+}
+
 /* SKILLS */
   
 #skills {
@@ -514,6 +533,11 @@ nav {
     .project-content {
         top: 35%!important;
     }
+
+    .project-bg {
+        opacity: 0.4!important;
+    }
+
 }
 
 @media (max-width:400px) {
@@ -638,4 +662,3 @@ nav {
         background-color: #fff;
       }
 }
-

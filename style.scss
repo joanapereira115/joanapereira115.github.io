@@ -304,14 +304,18 @@ nav {
 @media (max-width:500px) {
 
     #skills_grid {
-        transform: scale(1.7);
+        transform: scale(1.8);
+    }
+
+    .hex h1 {
+        font-size: 0.7em!important;
     }
 }
 
 @media (max-width:650px) {  /* <- 2-3  hexagons per row */
 
     #skills_grid {
-        margin: 0 0 10% -10%;
+        margin: 0 0 10% -15%;
     }
       
     .hex {
@@ -482,6 +486,25 @@ nav {
 
 /* PROJECTS */
 
+@media (max-width:768px) {
+
+    .project-item {
+        width: 75%!important;
+        height: 90vh!important;
+        margin: auto!important;
+        margin-bottom: 5%!important;
+        font-size: 0.9em!important;
+
+        &:hover {
+            width: 80%!important;
+        }
+    }
+
+    .project-content {
+        top: 35%;
+    }
+}
+
 #projects {
     background-color: $dark-grey;
     min-height: 100vh;
@@ -515,7 +538,7 @@ nav {
     }
 
     &:hover {
-        width: 30% !important;
+        width: 30% ;
     }
 
     &:hover .project-content {

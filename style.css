@@ -242,12 +242,15 @@ nav li a:hover {
 }
 @media (max-width: 500px) {
   #skills_grid {
-    transform: scale(1.7);
+    transform: scale(1.8);
+  }
+  .hex h1 {
+    font-size: 0.7em !important;
   }
 }
 @media (max-width: 650px) { /* <- 2-3  hexagons per row */
   #skills_grid {
-    margin: 0 0 10% -10%;
+    margin: 0 0 10% -15%;
   }
   .hex {
     width: 32.666%; /* = (100-2) / 3 */
@@ -390,6 +393,21 @@ nav li a:hover {
 }
 
 /* PROJECTS */
+@media (max-width: 768px) {
+  .project-item {
+    width: 75% !important;
+    height: 90vh !important;
+    margin: auto !important;
+    margin-bottom: 5% !important;
+    font-size: 0.9em !important;
+  }
+  .project-item:hover {
+    width: 80% !important;
+  }
+  .project-content {
+    top: 35%;
+  }
+}
 #projects {
   background-color: #0a0908;
   min-height: 100vh;
@@ -422,7 +440,7 @@ nav li a:hover {
   opacity: 0;
 }
 .project-item:hover {
-  width: 30% !important;
+  width: 30%;
 }
 .project-item:hover .project-content {
   opacity: 1;

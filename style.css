@@ -113,12 +113,12 @@ nav li a:hover {
 
 @media (max-width: 991px) {
   #photo {
-    margin-top: -10% !important;
+    margin-top: -15% !important;
     height: 45vh;
   }
   #about_me {
     text-align: center !important;
-    margin-left: -8% !important;
+    margin-left: -6% !important;
   }
   #about_me hr {
     margin: auto !important;

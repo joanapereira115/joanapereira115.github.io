@@ -312,10 +312,21 @@ nav {
     }
 }
 
+@media (max-width:400px) {
+
+    #skills_grid {
+        transform: scale(2);
+    }
+
+    .hex h1 {
+        font-size: 0.5em!important;
+    }
+}
+
 @media (max-width:650px) {  /* <- 2-3  hexagons per row */
 
     #skills_grid {
-        margin: 0 0 10% -15%;
+        margin: 0 0 10% -20%;
     }
       
     .hex {
@@ -501,7 +512,13 @@ nav {
     }
 
     .project-content {
-        top: 35%;
+        top: 35%!important;
+    }
+}
+
+@media (max-width:400px) {
+    .project-content {
+        top: 30%!important;
     }
 }
 

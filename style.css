@@ -304,7 +304,7 @@ nav li a:hover {
   #experience {
     font-size: 0.9em;
   }
-  .event h4 {
+  .event h5 {
     margin-top: 5%;
   }
 }
@@ -322,9 +322,9 @@ nav li a:hover {
   border-top-right-radius: 0.5em;
   background: #202020;
   color: #ffffff;
-  margin: 2em auto;
+  margin: 1em auto;
   position: relative;
-  line-height: 1.5em;
+  line-height: 1.3em;
   padding: 2em;
   list-style: none;
   text-align: left;
@@ -337,11 +337,11 @@ nav li a:hover {
   position: relative;
 }
 .event h3 {
-  font-size: 1.8em;
+  font-size: 1.5em;
   font-weight: 500;
 }
-.event h4 {
-  font-size: 1.5em;
+.event h5 {
+  font-size: 1.3em;
   font-weight: 375;
   color: #B08AD0;
 }

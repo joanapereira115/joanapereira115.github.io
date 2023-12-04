@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.37d5f0e2.css",
-    "main.js": "/static/js/main.dfe89420.js",
+    "main.css": "/static/css/main.8adb2408.css",
+    "main.js": "/static/js/main.7c158028.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/photo.png": "/static/media/photo.01f0f1b868d5db496aab.png",
     "static/media/forjagas.png": "/static/media/forjagas.319a6e1d8c264ec3b279.png",
@@ -10,6 +10,7 @@
     "static/media/cmdb.png": "/static/media/cmdb.d5520f3bb1710fc873ab.png",
     "static/media/html.png": "/static/media/html.f98e2c60eafa1eb55fa3.png",
     "static/media/react_certificate.jpg": "/static/media/react_certificate.26535df4456630bd8182.jpg",
+    "static/media/logo.png": "/static/media/logo.a3fc584214f0bbc66021.png",
     "static/media/react.png": "/static/media/react.638560c0124328ce8e73.png",
     "static/media/CV_EN.pdf": "/static/media/CV_EN.b5d3e3ba512abefa0740.pdf",
     "static/media/mongodb.png": "/static/media/mongodb.d03e43f26c20edee7981.png",
@@ -25,12 +26,12 @@
     "static/media/sap.png": "/static/media/sap.67d0f4ea60e411ffac5b.png",
     "static/media/javascript.png": "/static/media/javascript.7fdff9a14aeb037360e7.png",
     "index.html": "/index.html",
-    "main.37d5f0e2.css.map": "/static/css/main.37d5f0e2.css.map",
-    "main.dfe89420.js.map": "/static/js/main.dfe89420.js.map",
+    "main.8adb2408.css.map": "/static/css/main.8adb2408.css.map",
+    "main.7c158028.js.map": "/static/js/main.7c158028.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37d5f0e2.css",
-    "static/js/main.dfe89420.js"
+    "static/css/main.8adb2408.css",
+    "static/js/main.7c158028.js"
   ]
 }

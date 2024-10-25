@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f403359.css",
-    "main.js": "/static/js/main.d7fa398f.js",
+    "main.css": "/static/css/main.85f4c187.css",
+    "main.js": "/static/js/main.c5e0f511.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/photo.png": "/static/media/photo.01f0f1b868d5db496aab.png",
     "static/media/forjagas.png": "/static/media/forjagas.319a6e1d8c264ec3b279.png",
     "static/media/uminho.jpeg": "/static/media/uminho.419013cee25235a1f5bf.jpeg",
-    "static/media/finance_app.png": "/static/media/finance_app.a8075ef479390c42b4c7.png",
+    "static/media/finance_app.png": "/static/media/finance_app.ec105ca6116dd99d249d.png",
     "static/media/cmdb.png": "/static/media/cmdb.d5520f3bb1710fc873ab.png",
     "static/media/html.png": "/static/media/html.f98e2c60eafa1eb55fa3.png",
     "static/media/react_certificate.jpg": "/static/media/react_certificate.26535df4456630bd8182.jpg",
@@ -26,12 +26,12 @@
     "static/media/javascript.png": "/static/media/javascript.7fdff9a14aeb037360e7.png",
     "static/media/nextjs.png": "/static/media/nextjs.8d64d64843058b1c9a96.png",
     "index.html": "/index.html",
-    "main.9f403359.css.map": "/static/css/main.9f403359.css.map",
-    "main.d7fa398f.js.map": "/static/js/main.d7fa398f.js.map",
+    "main.85f4c187.css.map": "/static/css/main.85f4c187.css.map",
+    "main.c5e0f511.js.map": "/static/js/main.c5e0f511.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f403359.css",
-    "static/js/main.d7fa398f.js"
+    "static/css/main.85f4c187.css",
+    "static/js/main.c5e0f511.js"
   ]
 }

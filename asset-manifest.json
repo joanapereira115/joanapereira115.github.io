@@ -1,37 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.bcda9e50.css",
-    "main.js": "/static/js/main.bba907c3.js",
+    "main.css": "/static/css/main.0cd5c926.css",
+    "main.js": "/static/js/main.4748c7e2.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/photo.png": "/static/media/photo.01f0f1b868d5db496aab.png",
-    "static/media/forjagas.png": "/static/media/forjagas.319a6e1d8c264ec3b279.png",
     "static/media/uminho.jpeg": "/static/media/uminho.419013cee25235a1f5bf.jpeg",
     "static/media/finance_app.png": "/static/media/finance_app.59f494d027d5568985be.png",
+    "static/media/home_assist.png": "/static/media/home_assist.6212ed9b2e6df24b22db.png",
     "static/media/cmdb.png": "/static/media/cmdb.d5520f3bb1710fc873ab.png",
     "static/media/html.png": "/static/media/html.f98e2c60eafa1eb55fa3.png",
     "static/media/react_certificate.jpg": "/static/media/react_certificate.26535df4456630bd8182.jpg",
     "static/media/react.png": "/static/media/react.638560c0124328ce8e73.png",
-    "static/media/CV_EN.pdf": "/static/media/CV_EN.09910544ad3b2a1a16cf.pdf",
+    "static/media/CV_EN.pdf": "/static/media/CV_EN.fdb8be590712fdb68c23.pdf",
     "static/media/mongodb.png": "/static/media/mongodb.d03e43f26c20edee7981.png",
-    "static/media/java.png": "/static/media/java.fdabd4e11f1235e4e8e0.png",
     "static/media/typescript.png": "/static/media/typescript.1e3902edbe4c3f2970d8.png",
+    "static/media/net.png": "/static/media/net.b412fea11319ffdbe75e.png",
     "static/media/postgresql.png": "/static/media/postgresql.594ca65ae91e7dc13be2.png",
     "static/media/nodejs.png": "/static/media/nodejs.9cce0c26f89f8066e3e4.png",
     "static/media/css.png": "/static/media/css.f24ea9b85b84df2d7bc3.png",
     "static/media/angular.png": "/static/media/angular.4117295593d823863c5e.png",
     "static/media/mysql.png": "/static/media/mysql.5890fbad57e0d86effae.png",
     "static/media/python.png": "/static/media/python.2f319e4db24e49cf023d.png",
-    "static/media/abap.png": "/static/media/abap.c21f743c5d5994c6489f.png",
     "static/media/graphdb.png": "/static/media/graphdb.fb353bf3a3be5697d543.png",
     "static/media/javascript.png": "/static/media/javascript.7fdff9a14aeb037360e7.png",
     "static/media/nextjs.png": "/static/media/nextjs.8d64d64843058b1c9a96.png",
     "index.html": "/index.html",
-    "main.bcda9e50.css.map": "/static/css/main.bcda9e50.css.map",
-    "main.bba907c3.js.map": "/static/js/main.bba907c3.js.map",
+    "main.0cd5c926.css.map": "/static/css/main.0cd5c926.css.map",
+    "main.4748c7e2.js.map": "/static/js/main.4748c7e2.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcda9e50.css",
-    "static/js/main.bba907c3.js"
+    "static/css/main.0cd5c926.css",
+    "static/js/main.4748c7e2.js"
   ]
 }
